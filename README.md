@@ -1,4 +1,4 @@
-# Wator
+# Wa-Tor
 
 A simple [Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor) Simulation with a TUI written on a boring Saturday night.
 

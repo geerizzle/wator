@@ -1,0 +1,13 @@
+[package]
+name = "wator"
+version = "0.1.0"
+description = "Wa-Tor World Simulation with a TUI representation"
+authors = ["Dejan Dudukovic <dekidudukovic@gmail.com>"]
+license = "MIT"
+edition = "2024"
+
+[dependencies]
+color-eyre = "0.6.3"
+crossterm = "0.28.1"
+rand = "0.9.2"
+ratatui = "0.29.0"
